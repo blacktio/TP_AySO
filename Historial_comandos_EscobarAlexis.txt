@@ -62,3 +62,4 @@ git add .
 git commit -m "ADD: Añadiendo script"
 git push
 history -a
+cp ~/.bash_history ./Historial_comandos_EscobarAlexis.txt
